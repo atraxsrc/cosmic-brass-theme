@@ -1,0 +1,41 @@
+# 256-colour codes nearest the Brass palette on umber (lsd 1.0.0 does not accept
+# #hex here): 180 sand, 167 brick, 173 amber, 179 tan, 222 gold,
+# 144 clay, 102 taupe, 241 dusk.
+user: 222
+group: 102
+permission:
+  read: 102
+  write: 222
+  exec: 180
+  exec-sticky: 180
+  no-access: 241
+  octal: 144
+  acl: 144
+  context: 144
+date:
+  hour-old: 222
+  day-old: 179
+  older: 241
+size:
+  none: 241
+  small: 179
+  medium: 222
+  large: 167
+inode:
+  valid: 179
+  invalid: 167
+links:
+  valid: 144
+  invalid: 167
+tree-edge: 241
+git-status:
+  default: 241
+  unmodified: 241
+  ignored: 241
+  new-in-index: 179
+  new-in-workdir: 179
+  typechange: 222
+  deleted: 167
+  renamed: 144
+  modified: 173
+  conflicted: 167

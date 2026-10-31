@@ -1,0 +1,10 @@
+.DS_Store
+*.bak
+*.bak-*
+*~
+*.zip
+*.xpi
+*.vsix
+*.crx
+*.pem
+Cached Theme.pak
