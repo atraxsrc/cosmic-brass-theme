@@ -1,0 +1,39 @@
+{
+  "name": "cosmic-brass-theme",
+  "displayName": "Cosmic Brass",
+  "description": "Dark colour theme from the COSMIC Brass rice, syntax as in its Neovim scheme.",
+  "version": "1.0.0",
+  "publisher": "atraxsrc",
+  "license": "MIT",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1C1B19",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atraxsrc/cosmic-brass-theme"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "cosmic",
+    "brass",
+    "cursor"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cosmic Brass",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cosmic-brass-color-theme.json"
+      }
+    ]
+  }
+}
