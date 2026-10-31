@@ -15,6 +15,7 @@ colour; brick is kept for what is wrong.
 </div>
 
 ---
+![Pop!_OS COSMIC desktop with the Brass theme](assets/screenshot.png)
 
 ## Palette
 
@@ -106,6 +107,7 @@ accent never needs a brighter variant.
 ├── assets
 │   ├── cursors/                 # cursor preview
 │   ├── cosmic-term/             # scheme previews for cosmic-term/README.md
+│   ├── screenshot.png           # README screenshot
 │   └── wallpaper.png            # the geisha wallpaper at 2560x1440
 ├── backgrounds/                 # wallpapers, brass-<subject>.jpg/.png (see Icons and wallpaper)
 ├── docs
