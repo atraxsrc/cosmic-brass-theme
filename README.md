@@ -429,10 +429,11 @@ Add `--system` to install to `/usr/share/icons` instead, for every user and the
 login screen (asks for sudo); `--user` is the default.
 
 Wallpapers ship in [`backgrounds/`](backgrounds/), named `brass-<subject>`:
-three illustrations in cream and umber: a woman with a cigarette and
-her hands in her hair, a geisha in a striped kimono, and a masked girl
-with white hair inside a wireframe. The geisha (`brass-geisha.jpg`) is
-the one in `assets/wallpaper.png` at 2560x1440.
+three illustrations in cream and umber, a woman with a cigarette and her hands
+in her hair, a geisha in a striped kimono, and a masked girl with white hair
+inside a wireframe, plus the anime portrait from the screenshot
+(`brass-anime.png`) in sand and umber. The geisha (`brass-geisha.jpg`) is the
+one in `assets/wallpaper.png` at 2560x1440.
 
 Settings → Wallpaper → Add image → a file from `backgrounds/`, or one you downloaded.
 
