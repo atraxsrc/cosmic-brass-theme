@@ -2,6 +2,8 @@
 
 # COSMIC · Brass
 
+![Brass palette](assets/palette.png)
+
 Pop!_OS 24.04 on COSMIC in umber, cream and sand: desktop, terminal,
 shell, Firefox, Brave, cursor, wallpapers. A warm dark rice with no cold
 colour; brick is kept for what is wrong.
@@ -107,6 +109,7 @@ accent never needs a brighter variant.
 ├── assets
 │   ├── cursors/                 # cursor preview
 │   ├── cosmic-term/             # scheme previews for cosmic-term/README.md
+│   ├── palette.png              # the 16 terminal colours, under the title
 │   ├── screenshot.png           # README screenshot
 │   └── wallpaper.png            # the geisha wallpaper at 2560x1440
 ├── backgrounds/                 # wallpapers, brass-<subject>.jpg/.png (see Icons and wallpaper)
