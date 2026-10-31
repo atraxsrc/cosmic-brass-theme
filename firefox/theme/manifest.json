@@ -1,0 +1,50 @@
+{
+  "manifest_version": 2,
+  "name": "Cosmic Brass",
+  "version": "1.0",
+  "description": "Umber theme from the COSMIC Brass rice: tan icons, one sand accent.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{ba63b7bd-fa8c-410f-a606-0c8ef99d61c2}"
+    }
+  },
+  "icons": {
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "64": "icons/icon-64.png",
+    "96": "icons/icon-96.png",
+    "128": "icons/icon-128.png"
+  },
+  "theme": {
+    "colors": {
+      "toolbar": "#232220",
+      "toolbar_text": "#f0e4c5",
+      "frame": "#1C1B19",
+      "tab_background_text": "#c2a571",
+      "tab_text": "#d4bd99",
+      "toolbar_field": "#3a3631",
+      "toolbar_field_text": "#f0e4c5",
+      "toolbar_field_border_focus": "#D4BD99",
+      "toolbar_field_highlight": "#D4BD99",
+      "toolbar_field_highlight_text": "#1C1B19",
+      "tab_line": "#D4BD99",
+      "popup": "#232220",
+      "popup_text": "#f0e4c5",
+      "button_background_active": "#D4BD99",
+      "button_background_hover": "#3a3631",
+      "frame_inactive": "#1C1B19",
+      "icons_attention": "#D4BD99",
+      "icons": "#c2a571",
+      "ntp_background": "#1C1B19",
+      "ntp_text": "#f0e4c5",
+      "popup_border": "#A89984",
+      "popup_highlight_text": "#1C1B19",
+      "popup_highlight": "#D4BD99",
+      "sidebar_border": "#3a3631",
+      "sidebar_highlight_text": "#1C1B19",
+      "sidebar_highlight": "#D4BD99",
+      "sidebar_text": "#f0e4c5",
+      "tab_loading": "#D4BD99"
+    }
+  }
+}
