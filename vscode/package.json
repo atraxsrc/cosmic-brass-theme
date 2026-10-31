@@ -1,7 +1,7 @@
 {
   "name": "cosmic-brass-theme",
-  "displayName": "Cosmic Brass",
-  "description": "Dark colour theme from the COSMIC Brass rice, syntax as in its Neovim scheme.",
+  "displayName": "Cosmic Brass / Cosmic Brass Day",
+  "description": "Cosmic Brass (dark) and Cosmic Brass Day (light), the COSMIC rice pair, for Cursor and VS Code",
   "version": "1.0.0",
   "publisher": "atraxsrc",
   "license": "MIT",
@@ -23,8 +23,10 @@
   "keywords": [
     "theme",
     "dark",
+    "light",
     "cosmic",
     "brass",
+    "brassday",
     "cursor"
   ],
   "contributes": {
@@ -33,6 +35,11 @@
         "label": "Cosmic Brass",
         "uiTheme": "vs-dark",
         "path": "./themes/cosmic-brass-color-theme.json"
+      },
+      {
+        "label": "Cosmic Brass Day",
+        "uiTheme": "vs",
+        "path": "./themes/cosmic-brassday-color-theme.json"
       }
     ]
   }
