@@ -1,0 +1,45 @@
+# Brass for Ghostty, part of cosmic-brass-theme (MIT).
+# Colours follow the COSMIC Terminal scheme (cosmic-term/).
+#
+# Install: ./ghostty/install.sh puts this in ~/.config/ghostty/themes/, then in
+# ~/.config/ghostty/config:
+#   theme = Brass
+# or, with the Brass Day half installed too, following COSMIC's Dark / Light toggle:
+#   theme = dark:Brass,light:BrassDay
+
+background = #1C1B19
+foreground = #F0E4C5
+
+cursor-color = #D4BD99
+cursor-text = #1C1B19
+
+selection-background = #3A3631
+selection-foreground = #F0E4C5
+
+split-divider-color = #6B655C
+unfocused-split-fill = #1C1B19
+
+# black
+palette = 0=#161412
+palette = 8=#6B655C
+# red
+palette = 1=#DD6A5C
+palette = 9=#E8877A
+# green
+palette = 2=#C2A571
+palette = 10=#D3BC8E
+# yellow
+palette = 3=#EBDBB2
+palette = 11=#F7DF97
+# blue
+palette = 4=#D4BD99
+palette = 12=#E2CFAF
+# magenta
+palette = 5=#E0905C
+palette = 13=#EBAA7E
+# cyan
+palette = 6=#908D88
+palette = 14=#AAA090
+# white
+palette = 7=#FBF1C7
+palette = 15=#FFF8E8

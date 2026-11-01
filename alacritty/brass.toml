@@ -1,0 +1,80 @@
+# Brass for Alacritty, part of cosmic-brass-theme (MIT).
+# Colours follow the COSMIC Terminal scheme (cosmic-term/).
+#
+# Install: ./alacritty/install.sh puts this in ~/.config/alacritty/themes/,
+# then in ~/.config/alacritty/alacritty.toml:
+#   [general]
+#   import = ["~/.config/alacritty/themes/brass.toml"]
+# (Alacritty 0.13: a top-level `import = [...]` line instead.)
+
+[colors.primary]
+background = "#1C1B19"
+foreground = "#F0E4C5"
+bright_foreground = "#FFF8E8"
+dim_foreground = "#8E8373"
+
+[colors.cursor]
+text = "#1C1B19"
+cursor = "#D4BD99"
+
+[colors.vi_mode_cursor]
+text = "#1C1B19"
+cursor = "#E0905C"
+
+[colors.selection]
+text = "CellForeground"
+background = "#3A3631"
+
+[colors.search.matches]
+foreground = "#1C1B19"
+background = "#EBDBB2"
+
+[colors.search.focused_match]
+foreground = "#1C1B19"
+background = "#D4BD99"
+
+[colors.hints.start]
+foreground = "#1C1B19"
+background = "#E0905C"
+
+[colors.hints.end]
+foreground = "#1C1B19"
+background = "#EBDBB2"
+
+[colors.footer_bar]
+foreground = "#F0E4C5"
+background = "#232220"
+
+[colors.line_indicator]
+foreground = "None"
+background = "None"
+
+[colors.normal]
+black   = "#161412"
+red     = "#DD6A5C"
+green   = "#C2A571"
+yellow  = "#EBDBB2"
+blue    = "#D4BD99"
+magenta = "#E0905C"
+cyan    = "#908D88"
+white   = "#FBF1C7"
+
+[colors.bright]
+black   = "#6B655C"
+red     = "#E8877A"
+green   = "#D3BC8E"
+yellow  = "#F7DF97"
+blue    = "#E2CFAF"
+magenta = "#EBAA7E"
+cyan    = "#AAA090"
+white   = "#FFF8E8"
+
+[colors.dim]
+black   = "#1C1B19"
+red     = "#A64F45"
+green   = "#917C55"
+yellow  = "#B0A486"
+blue    = "#9F8E73"
+magenta = "#A86C45"
+cyan    = "#6C6A66"
+white   = "#BCB595"

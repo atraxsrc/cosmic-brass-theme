@@ -1,0 +1,37 @@
+# Brass for lazygit, part of cosmic-brass-theme (MIT). Only the colours: your
+# own ~/.config/lazygit/config.yml keeps the rest.
+#
+# Install: ./lazygit/install.sh puts this in ~/.config/lazygit/brass.yml and
+# zsh/brass.zsh sets LG_CONFIG_FILE to "config.yml,brass.yml" so lazygit
+# reads both (the later file wins). Without the zsh layer:
+#   export LG_CONFIG_FILE="$HOME/.config/lazygit/config.yml,$HOME/.config/lazygit/brass.yml"
+gui:
+  theme:
+    activeBorderColor:
+      - "#D4BD99"
+      - bold
+    inactiveBorderColor:
+      - "#6B655C"
+    searchingActiveBorderColor:
+      - "#E0905C"
+      - bold
+    optionsTextColor:
+      - "#A89984"
+    selectedLineBgColor:
+      - "#2C2925"
+    inactiveViewSelectedLineBgColor:
+      - "#232220"
+    cherryPickedCommitFgColor:
+      - "#1C1B19"
+    cherryPickedCommitBgColor:
+      - "#EBDBB2"
+    markedBaseCommitFgColor:
+      - "#1C1B19"
+    markedBaseCommitBgColor:
+      - "#C2A571"
+    unstagedChangesColor:
+      - "#DD6A5C"
+    defaultFgColor:
+      - "#F0E4C5"
+  authorColors:
+    "*": "#EBDBB2"
