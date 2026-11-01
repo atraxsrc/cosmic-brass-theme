@@ -1,0 +1,6 @@
+name = "Brass"
+mode = "dark"
+theme = "Brass.ron"
+pair = "brassday"
+terminal = "Brass-term.ron"
+btop = "Brass"
