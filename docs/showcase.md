@@ -43,7 +43,7 @@ flowchart LR
 - [x] `./icons/install.sh` for the **Cosmic-Brass** icons, `./cosmic/install.sh` for fonts and the terminal look
 - [x] `./zsh/install.sh`, `./lsd/install.sh`, `./fastfetch/install.sh`
 - [x] Cursor: Oxygen-Brass-Sand
-- [x] Wallpaper: `backgrounds/brass-geisha.jpg`
+- [x] Wallpaper: `backgrounds/brass-anime.png`
 - [ ] Screenshot for the README
 
 ## The baseline every rice shares
